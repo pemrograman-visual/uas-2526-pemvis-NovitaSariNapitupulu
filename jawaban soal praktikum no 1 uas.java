@@ -1,9 +1,7 @@
-12S25028//N0vitasari napitupulu
-12s25023//Ferdinand sihombing
 import java.util.*;
 import java.lang.Math;
 
-public class soal nomor 1 {
+public class soal1 {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
